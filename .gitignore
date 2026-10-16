@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+runtime/
+.pytest_cache/
+.claude/
+*.zip
+# keep only the final evaluation report
+eval/reports/report_*.json
